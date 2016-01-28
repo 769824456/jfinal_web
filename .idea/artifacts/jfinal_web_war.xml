@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jfinal_web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="win.yulongsun.war">
+      <element id="artifact" artifact-name="jfinal_web:war exploded" />
+    </root>
+  </artifact>
+</component>
